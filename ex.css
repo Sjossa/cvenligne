@@ -1,3 +1,17 @@
 body
+ .cv{text-align: center; }
 
-    {background: 
+ #menu{text-align: center;
+    font-size: 18px;
+    font-weight: lighter;}
+    #menu :hover{ color:red;text-decoration: none;border: ridge 5px purple;}
+ 
+ #bureau{background-image:url(ress/rose-blanche.png);
+    background-repeat: no-repeat;
+    background-size: cover; ;
+    background-attachment: fixed, scroll;
+    background-repeat: no-repeat, repeat-y;}
+
+ p{font-family: serif;
+    font-size: 14px;font-weight: bolder;
+text-align: justify;}
